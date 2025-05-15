@@ -51,7 +51,7 @@ conda install -c conda-forge xgboost imbalanced-learn
   - Call failures
 
 ## Files
-- 'Customer_Churn.csv' dataset
+- `Customer_Churn.csv`:  dataset
 - `Customer_Churn_Analysis.ipynb`: Full analysis notebook
 - `MaureenEkwebelem_PredictPreventRetain_MLforCustomerRetention.docx`: Final report
 
