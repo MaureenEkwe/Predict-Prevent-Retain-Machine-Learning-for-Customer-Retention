@@ -53,7 +53,7 @@ conda install -c conda-forge xgboost imbalanced-learn
 ## Files
 - `Customer_Churn.csv`:  dataset
 - `Customer_Churn_Analysis.ipynb`: Full analysis notebook
-- `MaureenEkwebelem_PredictPreventRetain_MLforCustomerRetention.docx`: Final report
+- `MaureenEkwebelem_PredictPreventRetain_MLforCustomerRetention.pdf`: Final report
 
 
 ## Author
