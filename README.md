@@ -57,6 +57,6 @@ conda install -c conda-forge xgboost imbalanced-learn
 
 
 ## Author
-Maureen Ekwebelem
-B.S. in Human Development (Minor: Global Health), Cornell University
-M.S. Candidate in Data Science (Concentration: Machine Learning & AI), Fordham University
+Maureen Ekwebelem  
+B.S. in Human Development (Minor: Global Health), Cornell University  
+M.S. Candidate in Data Science (Concentration: Machine Learning & AI), Fordham University  
